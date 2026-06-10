@@ -1,5 +1,5 @@
 > ### 🧠 Algorithms & Problem Solving
-> **A personal repository for solving algorithms and programming problems from Programming Advices courses, continuously improving problem-solving and coding skills.**
+> **A personal repository for solving algorithms and programming problems from Programming Advices platform, continuously improving problem-solving and coding skills.**
 > 
 > ### ⚙️ C++ Algorithms (Foundations)
 > - 🔗 [**Course 4**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%204)
