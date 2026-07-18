@@ -3,7 +3,9 @@
 **A personal repository for solving algorithms and programming problems from Programming Advices platform, continuously improving problem-solving and coding skills.**
 
 ### 🧩 C++ Algorithms (Foundations)
-- 🔗 [**Course 4**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%204)
-- 🔗 [**Course 5**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%205)
-- 🔗 [**Course 7**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%207)
-- 🔗 [**Course 8**](https://github.com/ZiyadAlbokhari/Programming-Advices-Courses/tree/main/Course%208)
+| Algorithms File | Description |
+| :--- | :--- |
+| 🧩 **[`Level 1`](https://github.com/ZiyadAlbokhari/Algorithms-and-Problem-Solving/tree/main/Level%201)** | Focusing on logical thinking, structured solutions, and programming fundamentals. |
+| 🎲 **[`Level 2`](https://github.com/ZiyadAlbokhari/Algorithms-and-Problem-Solving/tree/main/Level%202)** | Practical exercises on conditions, arrays, and functions for procedural programming. |
+| 🔢 **[`Level 3`](https://github.com/ZiyadAlbokhari/Algorithms-and-Problem-Solving/tree/main/Level%203)** | Advanced practice in matrix operations, string processing, and structured solution design. |
+| 📅 **[`Level 4`](https://github.com/ZiyadAlbokhari/Algorithms-and-Problem-Solving/tree/main/Level%204)** | Advanced practice in date handling, calendar operations, and structured design. |
